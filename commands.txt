@@ -1,0 +1,7 @@
+@react-three/fiber  for 3.js
+@react-three/drei maath math function for geromety
+react-tilt animantion when hovering over the cards
+
+
+
+npm install --legacy-peer-deps  @react-three/fiber @react-three/drei maath react-tilt react-vertical-timeline-component @emailjs/browser framer-motion react-router-dom
